@@ -1,1 +1,80 @@
-# glamour_academy
+<!DOCTYPE html>
+<html lang="em" 
+<head>
+    <meta charset-"UTF-8">
+    <meta http-equiv-"X-UA-Compatible" content-"IE-edge">
+    <meta name-"viewport" content-"width-device-width, initial-scale-1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Glamour Academy Of Makeup </h1>
+	<p>
+		Unlock your creativity, unleash your artistry. Glamour academy of makeup provides a course by expert instructors,state of the art facilities and compressive curriculum will equip you with skills,knowledge and confidence to succed in the beauty industry
+		</p>
+		<h2>Certified courses we offer</h2>
+		<Ul>
+			<li>Saree Draping </li>
+			<li>Eyebrow Threading</li>
+			<li>Professional Makeup</li>
+			<li>Prosthetic Makeup</li>
+			<li>Bridal Makeup</li>
+			<li>Hair Styling</li>
+		</Ul>
+	</ol>
+	<a href="https://www.glamouracademy.online.com">Academy.com</a>
+	<img src ="../coco.jpg" alt="/"
+	<img src ="../vathsalya.jpg" alt="/"
+	<img src ="../laptop.jpg" alt="/"
+	<img src ="../pravanth.jpg" alt="/"
+	<img src ="../saree draping" alt="/"
+	<img src ="../makeup.jpg" alt="/"
+	<img
+	width ="400"
+	height ="300"
+	src ="../coco.jpg" 
+	src ="../vathsalya.jpg"
+	src ="../laptop.jpg"
+	src ="../pravanth.jpg"
+	src ="../saree draping.jpg"
+	src ="../makeup.jpg"
+<h3>Saree Draping</h3>
+<img src ="../"saree draping.jpg" alt="/">
+<p>
+	At our makeup academy,then we offer specialized saree draping training designed to complement various makeup styles and enhance the overall look of our clients. Our saree draping course covers traditional and contemporary styles, catering to both beginner and advanced learners. 
+<h4>
+<img src =""alt ="">
+<img src ="../"eyebrow threading.jpg" alt="/">
+<p>
+	Eyebrow threading is an ancient method of hair removal that has gained popularity for its precision and natural results.At our Makeup Academy , we teach the art of eyebrow threading, focusing on skillful hand movements, tension control, and understanding the natural brow structure to enhance facial features. 
+<h5>
+<img src =""alt ="">
+<img src ="../"professional makeup.jpg" alt="/">
+<p>
+	Professional makeup artistry is all about skill, creativity, and attention to detail.Our academy fosters creativity while emphasizing precision, hygiene, and client communication.
+<h6>
+<img src =""alt ="">
+<img src ="../"prosthetic makeup.jpg" alt="/">
+<p>
+	Prosthetic makeup, also known as special effects (SFX) makeup, is an innovative art form that allows makeup artists to create dramatic transformations for film, theater, television, and more.At our Makeup Academy , our prosthetic makeup program teaches students to master the complex techniques involved in crafting and applying prosthetics. 
+<h7>
+<img src =""alt ="">
+<img src ="../"Bridal makeup.jpg" alt="/">
+<p>
+	Bridal makeup is a specialized art that requires attention to detail, creativity, and the ability to enhance natural beauty for one of the most important days in a person's life. Our bridal makeup course covers everything from natural, glowing looks to glamorous, bold styles, tailored to the bride's preferences, skin type, and wedding theme.
+<h8>
+<img src =""alt ="">
+<img src ="../"hair styling.jpg" alt="/">
+<p>	
+	At our Makeup Academy, we believe that exceptional makeup artistry goes hand-in-hand with professional hair styling.Our Hair Styling curriculum covers a wide range of styles, from classic updos to modern, editorial looks. 
+<head>
+	<body>
+		<form>
+			<input>
+			type = "text"
+			name = "firstname"
+			id = "Firstname"
+			placeholder ="Firstname"
+			/>
+			<input place holder="surname" type="text" name="surname" id="surname"
+			/>
+			<input type="email" name="email" placeholder="email"./># glamour_academy
